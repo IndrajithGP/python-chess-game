@@ -77,7 +77,7 @@ Button sound effect on clicks
 2. Add timer / chess clock
 3. Undo move
 4. Polishing the GUI
-5.Export to .exe
+5. Export to .exe
 
 ---
 
