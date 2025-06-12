@@ -34,6 +34,7 @@ A fully functional chess game built using **Python** and **Pygame** — featurin
 
 ## 📂 Folder Structure
 
+```bash
 Chess_game/
 ├── assets/ # All images, sounds, music
 ├── main.py # Main game loop
@@ -42,7 +43,7 @@ Chess_game/
 ├── constants.py # Game-wide constants
 ├── README.md # This file
 └── .gitignore # Git exclusions
-
+```
 
 ---
 
@@ -59,7 +60,7 @@ cd python-chess-game
 ---
 
 Install Dependencies : pip install pygame
-And run the game : python main.py
+➡️ run the game : python main.py
 
 ---
 
@@ -82,7 +83,7 @@ Button sound effect on clicks
 
 ## 📸 Screenshots
 
-![Menu](assets/menu.png)
+![Menu](assets/Menu.png)
 ![Gameplay](assets/Gameplay.png)
 
 ---
