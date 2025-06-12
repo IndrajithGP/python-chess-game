@@ -2,7 +2,6 @@
 
 A fully functional chess game built using **Python** and **Pygame** — featuring smooth visuals, classic rule enforcement, and polished UI with sound and music.
 
-![screenshot](assets/preview.png) <!-- Will soon add screenshots here -->
 
 ---
 
